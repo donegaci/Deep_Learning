@@ -7,7 +7,7 @@ simulator](https://github.com/udacity/self-driving-car-sim), which is
 a nice testbed for training autonomous car using Convolutional Neural
 Networks.
 
-![Simulated Self Driving Car Project Demo](/images/screenshot.jpg)
+![Simulated Self Driving Car Project Demo](images/screenshot.jpg)
 
 The simulator, written in Unity, allows you to drive a car around a
 track and record a video of the front view of the ride as well as the
@@ -32,7 +32,7 @@ this folder `self-driving-lab`.
 -- Do not just search for 'Anaconda Prompt'!
    You must find specifically the 'Anaconda 3' (64 bit) version in 'All Programs'.
 
-![anaconda](/images/anaconda-start.jpg)
+![anaconda](images/anaconda-start.jpg)
 
 3. then in your conda prompt, go to the extracted `self-driving-lab`
 directory and then type:
